@@ -1,0 +1,7 @@
+== apuntes-algebra
+
+.mashups
+[%collapsible%open]
+====
+* link:mathrocks.adoc[mathrocks_geometria_historia]
+====
